@@ -7,5 +7,6 @@ The methods to be compared are:
 • Modelling the body as a projectile
 • Conservation of energy
 
-Data used was collected using Vicon motion capture system 
+Data used was collected using Vicon motion capture system .
+
 Force and trajectory data was use  to estimate Hip coordinates  using  Davis Hip model 
