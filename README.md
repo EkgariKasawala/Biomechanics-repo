@@ -1,7 +1,7 @@
 # Gait analysis 
 
 Contains MATLAB code for  comparing different methods of estimating the maximum height of the body’s centre of mass during a vertical jump trial.
-The methods to be compared are:
+The methods compared are:
 • Centre of mass of the lower body
 • Kinematic method
 • Modelling the body as a projectile
